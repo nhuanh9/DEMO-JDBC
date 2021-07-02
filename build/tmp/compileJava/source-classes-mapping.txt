@@ -1,0 +1,16 @@
+com/codegym/dao/IUserDAO.java
+ com.codegym.dao.IUserDAO
+com/codegym/model/User.java
+ com.codegym.model.User
+com/codegym/controller/UserServlet.java
+ com.codegym.controller.UserServlet
+com/codegym/dao/UserDAO.java
+ com.codegym.dao.UserDAO
+com/codegym/model/Blog.java
+ com.codegym.model.Blog
+com/codegym/dao/IBlogDAO.java
+ com.codegym.dao.IBlogDAO
+com/codegym/dao/BlogDao.java
+ com.codegym.dao.BlogDao
+com/codegym/controller/BlogController.java
+ com.codegym.controller.BlogController
